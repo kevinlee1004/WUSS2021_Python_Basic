@@ -1,0 +1,9 @@
+(base) C:\Users\kevin>pip install xport==2.0.2
+
+(base) C:\Users\kevin>conda install sas7bdat
+
+(base) C:\Users\kevin>pip install pyreadstat
+
+(base) C:\Users\kevin>conda install pyarrow
+
+(base) C:\Users\kevin>pip install python-snappy
