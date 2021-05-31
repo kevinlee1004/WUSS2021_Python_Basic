@@ -19,5 +19,6 @@ Agenda for the seminar: Python Programming Seminar - Basics
 - Data manipulation using Python
 - Introduction of NumPy and Array
 - Introduction of Pandas and DataFrame: DataFrame vs SAS datasets
-- Basic data manipulation – merge, sort, variables drop/addition
+- Basic data manipulation – merge, sort, variables drop/addition, transpose, remove duplicate records
+- Create SDTM TS dataset and save it to xpt format in local library
 - Create SDTM DM dataset using SAS raw datasets
