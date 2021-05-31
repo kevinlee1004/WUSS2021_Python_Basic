@@ -7,3 +7,5 @@
 (base) C:\Users\kevin>conda install pyarrow
 
 (base) C:\Users\kevin>pip install python-snappy
+
+(base) C:\Users\kevin>conda install fastparquet
