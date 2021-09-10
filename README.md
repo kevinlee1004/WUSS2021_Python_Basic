@@ -1,4 +1,4 @@
-# PharmaSUG21_Python_Training_Basic
+# WUSS2021_Python_Training_Basic
 
 The seminar is intended for Statistical Programmers and Statisticians who are familiar with SAS programming. 
 It is not easy for programmers and biostatisticians to learn new language alone. The seminar will provide basic concept and foundation of Python programming, 
